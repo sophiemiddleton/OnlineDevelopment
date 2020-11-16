@@ -17,7 +17,7 @@ Then on the Mu2e machine do the following:
 * After a few seconds you should see te geometry appear
 * To access remotely, create an ssh tunnel ON YOUR OWN COMPUTER:
 
-```ssh  -KXY -L WZYZ:mu2edaq11.fnal.gov:WXYZ mu2etrig@mu2edaq01.fnal.gov``` replacing ```WXYZ``` with the number shown in the local terminal.
+```ssh  -KXY -L WZYZ:mu2edaq11.fnal.gov:WXYZ username@mu2emachinename.fnal.gov``` replacing ```WXYZ``` with the number shown in the local terminal. Replace ```username``` with your name and ```mu2emachinename```with the name of the mu2e node.
 
 * copy the URL (starts with localhost) from the Mu2e machine into the remote browser i.e the one on your own computer. You should see the same geometry and track.
 
