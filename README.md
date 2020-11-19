@@ -21,3 +21,10 @@ Then on the Mu2e machine do the following:
 
 * copy the URL (starts with localhost) from the Mu2e machine into the remote browser i.e the one on your own computer. You should see the same geometry and track.
 
+# OTSDAQ
+
+An Eve-7 has been added to the OTSDAQ Desktop this will broadcast the event display and allows user interaction.
+
+The OTSDAQ page can be accessed from anywhere on the FNAL network, including using VPN.
+
+Google chrome is recommended.
