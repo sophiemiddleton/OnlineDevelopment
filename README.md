@@ -28,3 +28,5 @@ An Eve-7 has been added to the OTSDAQ Desktop this will broadcast the event disp
 The OTSDAQ page can be accessed from anywhere on the FNAL network, including using VPN.
 
 Google chrome is recommended.
+
+If you do not have a OTSDAQ account you can see the .mov video which shows what the user with access can see and do.
